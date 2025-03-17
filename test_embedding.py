@@ -1,4 +1,5 @@
 import time
+import time
 import faiss
 import numpy as np
 import openai
